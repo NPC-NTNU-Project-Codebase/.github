@@ -13,7 +13,7 @@ Here you’ll find repositories maintained by PhD candidates, MSc students, and 
   Shared materials from NTNU courses (lectures, exercises, exams, etc.) that can support your studies and research.  
 
 - **Research Codebases**  
-  Experimental and production-level repositories for robotics algorithms, mission planning, path planning, and system integration.  
+  Experimental and production-level repositories for robotics algorithms, made in house or adapted from open-source projects.
 
 ---
 
@@ -23,11 +23,11 @@ To keep our work organized and useful for everyone:
 
 1. **Collaboration**  
    - Contribute to existing repositories when possible, instead of creating duplicates.  
-   - Use Issues and Pull Requests for discussions and code reviews.  
+   - Use Issues and Pull Requests for discussions and reviews.  
 
 2. **Repository Structure**  
    - Each repo should include a clear `README.md` explaining purpose, setup, and usage.  
-   - Follow consistent naming (e.g., `project-name_module` or `course-materials_xxx`).  
+   - Follow consistent naming (e.g., `project-name_module` or `course_tag-course_name`).  
 
 3. **Code Practices**  
    - Write clean, documented code.  
